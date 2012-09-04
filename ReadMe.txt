@@ -1,0 +1,1 @@
+Use of fholm's lidgren networking plus first person camera. Build to Unity Standalone, run three instances - one server and two clients to see how it works.
